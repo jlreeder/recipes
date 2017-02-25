@@ -1,0 +1,2 @@
+#+TITLE: Recipes
+A collection of recipes I use.
