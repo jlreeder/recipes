@@ -1,0 +1,44 @@
+#+TITLE: Mason Jar Salad
+* Base
+** Ingredients
+/See ~variations~ below/
+- Dressing:
+- Protein:
+- Garnish:
+- Grain:
+- Greens:
+** Instructions
+- Combine ingredients in a mason jar in order of wettest to driest
+- Keep in the refrigerator for up to a week
+- Shake before eating
+** Notes
+- Just put the dressing in first (bottom of the jar). There's no need to keep this separate and add it in before eating as some recommend.
+- I use ~32oz jar, which cost <$2
+- Don't add very many raw onions
+- Grated carrots are a lot of fun
+* Variations
+** Italian
+- Dressing: vinaigrette
+- Protein: tofu, chickpeas
+- Garnish: olives, artichoke hearts, pine nuts
+- Grain: quinoa
+** Tuna
+- Dressing: avocado oil
+- Protein: tuna salad
+- Garnish: corn, bell peppers, tomato
+- Grain: quinoa, rice
+** Japanese
+- Dressing: sesame
+- Protein: tofu, edamame
+- Garnish: sesame seeds, carrots
+- Grain: rice
+** Egyptian
+- Dressing: tahini
+- Beans: fava
+- Garnish: picked carrots and peppers
+- Grain: rice
+** Mexican
+- Dressing: salsa
+- Protein: pintos, carnitas
+- Garnish: avocado
+- Grain: quinoa
