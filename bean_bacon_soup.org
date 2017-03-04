@@ -1,0 +1,24 @@
+#+TITLE: Bean Bacon Soup
+* Ingredients
+- Bacon
+- Ham hock
+- White beans
+- Onions
+- Garlic
+- Carrots
+- Tomato paste
+- Spices
+  - Salt
+  - Pepper
+  - Thyme
+  - Parsley
+- Water / broth
+* Directions
+** Prep
+- Soak beans
+- Cook bacon, dice
+- Sautee onions and carrots in grease from bacon
+** Game time
+1. Add all ingredients to slow cooker
+2. Cook on low for 10 hours
+3. Remove ham hock
